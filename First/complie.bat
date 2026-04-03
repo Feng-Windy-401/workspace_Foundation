@@ -1,0 +1,1 @@
+g++ main.cpp RobotBase.cpp WheeledRobot.cpp TrackedRobot.cpp -o robot
